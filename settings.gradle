@@ -1,0 +1,2 @@
+rootProject.name='Stores Library'
+include ':app'

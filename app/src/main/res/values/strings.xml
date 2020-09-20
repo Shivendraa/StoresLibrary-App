@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Stores Library</string>
+    <string name="hello_there">Hello There, Welcome Back!</string>
+    <string name="login_msg">Log in to Continue to the Store!</string>
+    <string name="email_hint">Email Address</string>
+    <string name="pass_hint">Password</string>
+    <string name="need_help">Need help ?</string>
+    <string name="log_in">Log In</string>
+    <string name="new_msg">New User? Register!</string>
+    <string name="ai_ml"><![CDATA[AI & ML]]></string>
+    <string name="log_out">Log Out</string>
+    <string name="my_profile">My Profile</string>
+    <string name="buy_book">Buy Book</string>
+    <string name="add_book">Add Book</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="slogan_name">Best Place to Sell and Buy used Books!</string>
+    <string name="logo">LOGO</string>
+    <string name="click_box">(Click Above box to pick an image)</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "556926207648",
+    "firebase_url": "https://stores-library.firebaseio.com",
+    "project_id": "stores-library",
+    "storage_bucket": "stores-library.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556926207648:android:03309c579f233f7074ebc5",
+        "android_client_info": {
+          "package_name": "com.user.storeslibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556926207648-qtkrm11tq97j8p7naig8oatd87u2bnmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.user.storeslibrary",
+            "certificate_hash": "08750bb6afb4466ba9eac605a118aa3d3f986945"
+          }
+        },
+        {
+          "client_id": "556926207648-nip4f2kubncg1jke5ddao16n5sdrqbj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEvVdBFXuB8pLowL-BjSG48lvNuiSgws0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556926207648-nip4f2kubncg1jke5ddao16n5sdrqbj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
